@@ -1,0 +1,36 @@
+# Week 1 – Deliverable 1: Topic Brief
+
+## Project Title
+
+**StaySense BI: AI-Powered Guest Sentiment Intelligence Dashboard for Homestays**
+
+## Business Problem
+
+Trishul Eco-Homestays receives guest reviews from multiple online platforms, making it difficult to monitor customer satisfaction and identify recurring service issues. Manual review analysis is time-consuming and often fails to uncover meaningful trends. This project aims to centralize and analyze guest review data using Business Intelligence techniques to generate actionable insights that support better operational and strategic decision-making.
+
+## Target Audience
+
+The primary audience includes homestay owners, operations managers, hospitality teams, and business decision-makers responsible for improving guest experience, service quality, and occupancy.
+
+## Dataset Identified
+
+* **Dataset:** 515K Hotel Reviews Dataset
+* **Source:** Kaggle
+* **Total Records:** 515,738
+* **Features:** 17
+* **Key Attributes:** Hotel Name, Hotel Address, Reviewer Score, Average Score, Positive Review, Negative Review, Review Date, Reviewer Nationality, Review Tags, Latitude, Longitude.
+
+## Key Business Questions
+
+1. Which aspects of the guest experience receive the most positive and negative feedback?
+2. How do guest ratings vary across different hotels and traveler segments?
+3. What operational improvements can be recommended based on guest review insights?
+
+## Proposed Tool Stack
+
+Python (Pandas, NumPy), SQL, Matplotlib, Seaborn, Google Looker Studio, Git, GitHub.
+
+## Expected Capstone Output
+
+The project will produce a cleaned and structured dataset, exploratory data analysis, SQL-based business insights, professional visualizations, and an interactive Business Intelligence dashboard. The final outcome will provide actionable recommendations to help improve guest satisfaction and support data-driven decision-making for Trishul Eco-Homestays.
+

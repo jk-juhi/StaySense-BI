@@ -1,0 +1,117 @@
+Perfect. We're doing this the right way.
+
+## Next: Week 1 — Deliverable 2 (Dataset Identification)
+
+Open **`notebooks/Week01_Setup.ipynb`** and we'll build it professionally.
+
+### Cell 1 (Markdown)
+
+```markdown
+# Week 1: Project Setup & Dataset Identification
+
+## Project
+**StaySense BI: AI-Powered Guest Sentiment Intelligence Dashboard for Homestays**
+
+### Objective
+Load, inspect, and understand the dataset that will be used throughout the Business Intelligence project.
+```
+
+---
+
+### Cell 2
+
+```python
+import pandas as pd
+import numpy as np
+
+pd.set_option("display.max_columns", None)
+pd.set_option("display.max_colwidth", None)
+```
+
+---
+
+### Cell 3
+
+```python
+df = pd.read_csv("../data/raw/Hotel_Reviews.csv")
+```
+
+If this gives an error, use:
+
+```python
+df = pd.read_csv("data/raw/Hotel_Reviews.csv")
+```
+
+---
+
+### Cell 4
+
+```python
+df.shape
+```
+
+📸 **Take Screenshot #1**
+
+---
+
+### Cell 5
+
+```python
+df.head()
+```
+
+📸 **Take Screenshot #2**
+
+---
+
+### Cell 6
+
+```python
+df.columns.tolist()
+```
+
+📸 **Take Screenshot #3**
+
+---
+
+### Cell 7
+
+```python
+df.info()
+```
+
+📸 **Take Screenshot #4**
+
+---
+
+### Cell 8
+
+```python
+df.isnull().sum().sort_values(ascending=False)
+```
+
+---
+
+### Cell 9
+
+```python
+df.describe(include="all")
+```
+
+---
+
+### Cell 10
+
+```python
+df.sample(5, random_state=42)
+```
+
+---
+
+## After running everything, send me:
+
+1. `df.shape`
+2. `df.info()`
+3. A screenshot of `df.head()`
+
+Once I have the actual dataset details, I'll rewrite the Topic Brief with **exact** numbers and finalize Week 1 Deliverable 1. This way, all future reports will stay consistent with the real dataset.
