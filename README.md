@@ -150,6 +150,6 @@ Through this project, I am developing practical skills in:
 
 ## Author
 
-**Juhi**
+**Juhi Kansal**
 
 AI Enabled Business Intelligence Internship Project
