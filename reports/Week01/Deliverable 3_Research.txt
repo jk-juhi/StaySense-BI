@@ -1,0 +1,65 @@
+> Research **three Business Intelligence case studies** and summarize:
+
+* Organization
+* Business problem
+* BI solution
+* Business impact
+* Key learning
+
+BI in the real world:-
+
+---
+
+# Case Study 1 – Netflix
+
+**Organization:** Netflix
+
+**Business Problem:**
+Netflix needed to understand viewer preferences to recommend relevant content and improve user retention.
+
+**BI Solution:**
+Netflix analyzed user viewing history, watch time, ratings, and search behavior using Business Intelligence and data analytics. Interactive dashboards helped monitor content performance and customer engagement.
+
+**Business Impact:**
+Personalized recommendations increased user engagement, improved customer retention, and supported data-driven decisions for content production and licensing.
+
+**Key Learning:**
+Business Intelligence can transform customer behavior data into actionable insights that improve user experience and business growth.
+
+---
+
+# Case Study 2 – Starbucks
+
+**Organization:** Starbucks
+
+**Business Problem:**
+Choosing profitable locations for new stores while understanding customer purchasing patterns.
+
+**BI Solution:**
+Starbucks used Business Intelligence by combining demographic data, customer transactions, market research, and geographic information to identify ideal store locations and optimize inventory.
+
+**Business Impact:**
+Improved site selection, increased sales, reduced operational risks, and enhanced customer satisfaction.
+
+**Key Learning:**
+Combining multiple data sources enables organizations to make informed strategic decisions rather than relying on intuition.
+
+---
+
+# Case Study 3 – Airbnb
+
+**Organization:** Airbnb
+
+**Business Problem:**
+Airbnb needed to monitor guest experiences, host performance, and booking trends across millions of listings.
+
+**BI Solution:**
+Airbnb utilized Business Intelligence dashboards to analyze reviews, occupancy rates, pricing trends, booking behavior, and customer satisfaction metrics.
+
+**Business Impact:**
+Hosts received actionable insights to improve their listings, while Airbnb optimized pricing strategies and enhanced the overall user experience.
+
+**Key Learning:**
+Analyzing customer feedback alongside operational metrics enables continuous service improvement and better business performance.
+
+
