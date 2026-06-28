@@ -1,7 +1,7 @@
-| Chart          | Business Question                                             | Status      |
-| -------------- | ------------------------------------------------------------- | ----------- |
-| 📈 Line Chart  | How have guest review scores changed over time?               | We'll build |
-| 📊 Bar Chart   | Which hotels receive the most reviews?                        | We'll build |
-| 🥧 Pie Chart   | What proportion of reviewers come from the top nationalities? | We'll build |
-| ⚫ Scatter Plot | Do longer positive reviews correspond to higher ratings?      | We'll build |
-| 🔥 Heatmap     | Which numerical variables are correlated?                     | We'll build |
+| Chart          | Business Question                                             |
+| -------------- | ------------------------------------------------------------- |
+| 📈 Line Chart  | How have guest review scores changed over time?               |
+| 📊 Bar Chart   | Which hotels receive the most reviews?                        |
+| 🥧 Pie Chart   | What proportion of reviewers come from the top nationalities? |
+| ⚫ Scatter Plot | Do longer positive reviews correspond to higher ratings?      |
+| 🔥 Heatmap     | Which numerical variables are correlated?                     | 
