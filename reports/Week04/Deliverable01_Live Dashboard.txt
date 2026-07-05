@@ -1,0 +1,14 @@
+Deliverable 1: Live Dashboard URL
+https://datastudio.google.com/reporting/0d7c2555-2294-455b-89a2-04f73354744e
+
+This is a mandatory program deliverable (one of two BI role-specific mandatories).
+     Published dashboard on Looker Studio or Tableau Public.
+     Share link set to "Anyone with link can view" (Looker Studio) or made public on your Tableau
+    Public profile.
+     Dashboard must contain:
+        o A clear title and subtitle
+        o At least 1 KPI card (total, average, or count metric prominently displayed)
+        o 3 chart types: trend (line), comparison (bar), breakdown/distribution (pie/donut/histogram/treemap)
+        o At least 1 interactive filter (date range, category dropdown, or similar)
+     Paste the live URL into the Form shared for the Week 4 submission.
+

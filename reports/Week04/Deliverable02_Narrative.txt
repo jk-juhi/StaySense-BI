@@ -1,0 +1,10 @@
+Deliverable 2: Dashboard Narrative (200 words)
+     PDF document.
+     Structure:
+        o Section 1 — Dashboard Overview (40 words): what the dashboard shows and for whom.
+        o Section 2 — Key Insights (80 words, 3 insights at ~25–30 words each): findings that the dashboard
+        reveals. Be specific with numbers.
+        o Section 3 — Business Recommendation (50 words): what a decision-maker should do with this.
+        o Section 4 — Caveats / Data Limitations (30 words): what the dashboard cannot tell us.
+     Total: 200 words (±15 words).
+     File name: W4_DashboardNarrative_[InternID].pdf
