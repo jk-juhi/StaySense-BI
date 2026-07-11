@@ -12,7 +12,8 @@
             "driver": "MySQL",
             "name": "StaySense BI",
             "username": "root",
-            "database": "staysense_bi"
+            "database": "staysense_bi",
+            "comment": "This is the connection setup for the StaySense BI database"
         }
     ]
 }
